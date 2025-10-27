@@ -10,7 +10,7 @@ Welcome to my curated portfolio showcasing four applied projects in e-commerce a
 
 | Project | Description | Format |
 |--------|-------------|--------|
-| **E_Commerce_Sales_Transactions** | Transaction-level analysis of online sales, including customer behavior and product performance | [Colab Notebook]((https://colab.research.google.com/github/AdnachielBismarck/Portfolio_Data_Analysis/blob/main/E_Commerce_Sales_Transactions.ipynb)) |
+| **E_Commerce_Sales_Transactions** | Transaction-level analysis of online sales, including customer behavior and product performance | [Colab Notebook](https://colab.research.google.com/github/AdnachielBismarck/Portfolio_Data_Analysis/blob/main/E_Commerce_Sales_Transactions.ipynb) |
 | **TCS: Transformed Custom Shopping** | Exploratory analysis of customized shopping patterns and segmentation logic | [Colab Notebook](https://colab.research.google.com/github/AdnachielBismarck/Portfolio_Data_Analysis/blob/main/Tranformed_Custom_Shopping_Project.ipynb) |
 
 ### 🌱 Sustainable Development Reports (Power BI)
