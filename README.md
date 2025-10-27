@@ -17,8 +17,8 @@ Welcome to my curated portfolio showcasing four applied projects in e-commerce a
 
 | Project | Description | Format |
 |--------|-------------|--------|
-| **Sustainable Development Report** | Exploratory analysis of SDG rankings, spillovers, and regional scores for 2025 | [PDF Report](./SDG2025.pdf) |
-| **Renewable Energy Dynamics in North America (1965–2024)** | Historical trends in renewable energy generation, consumption, and capacity across US, Canada, and Mexico | [PDF Report](./Renewable_Energy.pdf) |
+| **Sustainable Development Report** | Exploratory analysis of SDG rankings, spillovers, and regional scores for 2025 | [PDF Report](https://drive.google.com/file/d/1w84Id58IhGKEqwZ0Bu3IIiY-18TDUjnU/view?usp=sharing) |
+| **Renewable Energy Dynamics in North America (1965–2024)** | Historical trends in renewable energy generation, consumption, and capacity across US, Canada, and Mexico | [PDF Report](https://drive.google.com/file/d/1SbJ1Ohlu-h6TCUq-KaSp3qBT0zHDt7qm/view?usp=sharing) |
 
 ---
 
