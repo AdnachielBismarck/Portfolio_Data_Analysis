@@ -34,7 +34,7 @@ Welcome to my curated portfolio showcasing four applied projects in e-commerce a
 
 ## 📌 About Me
 
-I'm Adnachiel Bismarck Avendaño Chávez, a Data Analyst and Applied Physics Engineer based in Oaxaca, Mexico. I specialize in extracting, cleaning, analyzing, and visualizing complex datasets across healthcare, engineering, and e-commerce domains. My technical toolkit includes Python, SQL, Power BI, R, and Google Cloud Platform, with a strong foundation in statistics, dynamic systems modeling, and machine learning.
+Hi, I'm Adnachiel Bismarck Avendaño Chávez, a Data Analyst and Applied Physics Engineer based in Oaxaca, Mexico. I specialize in extracting, cleaning, analyzing, and visualizing complex datasets across healthcare, engineering, and e-commerce domains. My technical toolkit includes Python, SQL, Power BI, R, and Google Cloud Platform, with a strong foundation in statistics, dynamic systems modeling, and machine learning.
 
 I’ve worked on projects ranging from hospital data optimization and inventory diagnostics to web scraping for electronics retailers in India and predictive modeling using LSTM-PINN. My approach blends analytical rigor with strategic thinking, aiming to support data-driven decision-making in dynamic environments.
 
