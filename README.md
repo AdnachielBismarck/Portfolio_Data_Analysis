@@ -6,11 +6,11 @@ Welcome to my curated portfolio showcasing applied projects in business intellig
 
 ## 🔍 Featured Projects
 
-### 🛒 E-Commerce Analytics (Python, Google Colab)
+### 🛒 E-Commerce Analytics (Python, Streamlit)
 
 | Project | Description | Format |
 |--------|-------------|--------|
-| **E_Commerce_Sales_Transactions** | Transaction-level analysis of online sales, focusing on customer behavior, product performance, and sales dynamics | [Colab Notebook](https://github.com/AdnachielBismarck/Portfolio_Data_Analysis/blob/main/E_Commerce_Sales_Transactions.ipynb) |
+| **E_Commerce_Sales_Transactions** | Transaction-level analysis of online sales, focusing on customer behavior, product performance, and sales dynamics | [Streamlit App](https://e-commercesalestransactions-efaxnj9hmubycuqvd8fvxe.streamlit.app/) |
 | **TCS: Transformed Custom Shopping** | Exploratory and segmentation analysis of customized shopping patterns using transactional data | [Colab Notebook](https://github.com/AdnachielBismarck/Portfolio_Data_Analysis/blob/main/Tranformed_Custom_Shopping_Project.ipynb) |
 
 ---
@@ -59,8 +59,3 @@ My background combines strong quantitative foundations with applied analytics to
 - Bridging analytical depth with business relevance  
 
 I am currently open to **BI, Data Analyst, and Economic Analyst roles**, nationally or internationally, where data-driven insights support strategic and operational decisions.
-
-📫 **Contact**  
-- Email: adnachiel.bismarck@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/adnachiel-bismarck-avenda%C3%B1o-chavez-9089a128b/  
-- GitHub: https://github.com/AdnachielBismarck
